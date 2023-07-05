@@ -1,0 +1,6 @@
+name: budget
+channels:
+  - defaults
+dependencies:
+  - python=3.8.8
+  - flask
